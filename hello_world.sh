@@ -3,4 +3,4 @@
 # CSIR: EOSIT ICT Skills Test
 # ---------------------------------------------------------------------
 
-echo "Hello World"
+echo "Hello world"
